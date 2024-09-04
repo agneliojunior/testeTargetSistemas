@@ -10,7 +10,7 @@ public class Main {
             k += 1;
             soma += k;
         }
-        System.out.println("Resposta questão 1: SOMA = " + soma );
+        System.out.println("SOMA = " + soma );
 
         //Questão 2
         int x=34;
